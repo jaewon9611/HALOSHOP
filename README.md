@@ -15,14 +15,15 @@
 
 ---
 
-## 🛠️ 주요 기술 스택
+## 🛠️ 주요 기술 스택 및 실무 활용 역량
 
-| 영역         | 사용 기술                                                |
-|--------------|-----------------------------------------------------------|
-| **Backend**  | Java 11, Spring Boot 2.7.14, MyBatis, Spring Security, JWT |
-| **Frontend** | React.js, Axios, Bootstrap                                |
-| **Database** | MySQL 8                                                   |
-| **기타**     | WebSocket, KakaoPay API, OpenAI API                       |
+| 영역         | 사용 기술                                                | 실무 활용 역량 설명 |
+|--------------|-----------------------------------------------------------|---------------------|
+| **Backend**  | Java 11, Spring Boot 2.7.14, MyBatis, Spring Security, JWT | RESTful API 설계 및 구현<br>JWT 기반 인증/인가 처리<br>MyBatis를 통한 SQL 매핑 및 성능 최적화 |
+| **Frontend** | React.js, Axios, Bootstrap                                | 컴포넌트 기반 화면 설계<br>Axios를 활용한 비동기 API 통신<br>Bootstrap을 이용한 반응형 UI 구성 |
+| **Database** | MySQL 8                                                   | ERD 설계 및 정규화<br>JOIN 및 INDEX 튜닝<br>트랜잭션 관리 및 데이터 무결성 확보 |
+| **기타**     | WebSocket, KakaoPay API, OpenAI API                       | WebSocket 기반 실시간 채팅 구현<br>KakaoPay 결제 연동<br>OpenAI API를 통한 AI 요약 기능 개발 |
+
 
 ---
 
